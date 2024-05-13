@@ -1,0 +1,23 @@
+.quemsomos{
+    text-align: left;
+    text-decoration: none;
+}
+
+.titulo{
+    position: relative;
+    left: 20px;
+}
+
+.textao{
+    font-size: 22px;
+    position: relative;
+    bottom: 70px;
+    left: 20px;
+    word-wrap: break-word;
+    font-weight: 100;
+}
+
+.Foto5{
+    position: relative;    
+    left: 20px;
+}

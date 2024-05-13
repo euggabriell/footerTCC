@@ -1,0 +1,63 @@
+.titulo{
+    font-size: 20;
+}
+
+.Foto1{
+   display: inline-flex;
+    justify-content: center;
+    flex-direction: column;
+    margin-right: 15px;
+    height: 270px;
+    margin-left: 150px;
+    margin-top: 150px;
+
+}
+
+.Foto2{
+    display: inline-flex;
+    justify-content: center;
+    flex-direction: column;
+    margin-right: 15px;
+    height: 270px;
+    margin-top: 150px;
+}
+.Foto3{
+    display: inline-flex;
+    justify-content: center;
+    flex-direction: column;
+    margin-right: 15px;
+    height: 270px;
+    margin-top: 150px;
+}
+.Foto4{
+    display: inline-flex;
+    justify-content: center;
+    flex-direction: column;
+    margin-right: 15px;
+    margin-top: 150px;
+    height: 270px;
+}
+
+.texto1{
+    font-size: 14;
+    left: 410px;
+}
+
+.texto2{
+    font-size: 14;
+    right: 410px;
+}
+
+.texto3{
+    font-size: 14;
+}
+
+.subTexto{
+    position: relative;
+    font-size: 15px;
+    left: 410px;
+    bottom: 205px;
+}
+.corpo{
+    display: flex;
+}
